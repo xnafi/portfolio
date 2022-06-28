@@ -12,31 +12,31 @@ function Footer() {
                 <div className='justify-center items-center mt-8 lg:mt-10'>
                     <ul className='grid text-xl xl:text-lg gap-2 lg:flex lg:flex-row lg:justify-center lg:items-center lg:space-x-5'>
                         <li className='hover:scale-110 transition-all hover:underline underline-offset-4'>
-                            <a href="#" className='text-red-600 cursor-pointer font-bold'>Home</a>
+                            <a href="#" className=' cursor-pointer font-bold'>Home</a>
                         </li>
 
                         <li className='hover:scale-110 transition-all hover:underline underline-offset-4'>
-                            <a href="#about" className='text-red-600 cursor-pointer font-bold'>About</a>
+                            <a href="#about" className=' cursor-pointer font-bold'>About</a>
                         </li>
 
                         <li className='hover:scale-110 transition-all hover:underline underline-offset-4'>
-                            <a href="#experiance" className='text-red-600 cursor-pointer font-bold'>Experiance</a>
+                            <a href="#experiance" className=' cursor-pointer font-bold'>Experiance</a>
                         </li>
 
                         <li className='hover:scale-110 transition-all hover:underline underline-offset-4'>
-                            <a href="#portfolio" className='text-red-600 cursor-pointer font-bold'>Portfolio</a>
+                            <a href="#portfolio" className=' cursor-pointer font-bold'>Portfolio</a>
                         </li>
 
                         <li className='hover:scale-110 transition-all hover:underline underline-offset-4'>
-                            <a href="#services" className='text-red-600 cursor-pointer font-bold'>Services</a>
+                            <a href="#services" className=' cursor-pointer font-bold'>Services</a>
                         </li>
 
                         <li className='hover:scale-110 transition-all hover:underline underline-offset-4'>
-                            <a href="#testimonial" className='text-red-600 cursor-pointer font-bold'>Testimonial</a>
+                            <a href="#testimonial" className=' cursor-pointer font-bold'>Testimonial</a>
                         </li>
 
                         <li className='hover:scale-110 transition-all hover:underline underline-offset-4'>
-                            <a href="#contact" className='text-red-600 cursor-pointer font-bold'>Contact</a>
+                            <a href="#contact" className=' cursor-pointer font-bold'>Contact</a>
                         </li>
 
 

@@ -18,7 +18,7 @@ function Portfolio() {
             </h2>
           </div>
           <div className=' space-x-3'>
-              <a href="">
+              <a href="https://to-do-e29a2.web.app/">
                 Live Web</a>
 
                 <a href="">
@@ -34,10 +34,10 @@ function Portfolio() {
             </h2>
           </div>
           <div className=' space-x-3'>
-              <a href="">
+              <a href="https://newproject-cf88d.web.app/">
                 Live Web</a>
 
-                <a href="">
+                <a href="https://github.com/xnafi/shoppingweb">
                 Github</a>
           </div>
         </div>

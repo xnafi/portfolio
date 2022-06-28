@@ -27,7 +27,7 @@ function Contact() {
         <h4 className='text-xs'>Get In Touch</h4>
         <span className='text-2xl font-bold'>Contact Me</span>
       </div>
-      <div className='grid lg:grid-cols-2 grid-cols-1 justify-center mt-8 lg:mt-20 space-y-6 lg:space-y-0'>
+      <div className='grid lg:grid-cols-2 grid-cols-1 justify-center mt-8  space-y-6 lg:space-y-0'>
         {/* ************* Email,whatsapp,Messenger ***************** */}
         <div className='flex flex-col'>
           <div className='inline-flex flex-col justify-center items-center space-y-3'>
