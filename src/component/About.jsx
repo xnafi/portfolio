@@ -50,7 +50,7 @@ function About() {
               <span><MdWork /></span>
               <div className='leading-1'>
                 <h5 className='text-md font-bold'>Projects</h5>
-                <span className='text-xs font-bold'>40 Pojects And More</span>
+                <span className='text-xs font-bold'>40+ Pojects And More</span>
               </div>
             </div>
           </div>

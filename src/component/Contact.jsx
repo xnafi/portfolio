@@ -1,8 +1,9 @@
-import React  from 'react';
-import  { useRef } from 'react';
+import React from 'react';
+import { useRef } from 'react';
 import emailjs from "emailjs-com"
 import { MdEmail } from 'react-icons/md';
 import { SiMessenger, SiWhatsapp } from 'react-icons/si';
+import Swal from 'sweetalert2'
 
 
 
@@ -12,9 +13,10 @@ function Contact() {
     e.preventDefault();
 
     emailjs.sendForm('service_0xs52j4', 'template_ao4sm0f', form.current, 'BIRQzJB2v0FdjNvU2')
-       e.target.reset('')
       .then((result) => {
+        Swal.fire('Message Send Successfully')
         console.log(result.text);
+        e.target.reset('')
       }, (error) => {
         console.log(error.text);
       });

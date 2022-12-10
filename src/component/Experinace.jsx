@@ -19,7 +19,7 @@ function Experinace() {
       <div className='lg:mt-20 mt-5 flex flex-row justify-evenly gap-3'>
 
         <div className='inline-flex flex-col bg-[#0F172A] w-screen p-2 lg:p-3 lg:w-2/3 rounded-xl cursor-pointer'>
-          <h2 className='mt-5 mb-8 font-bold'>Fronted Development</h2>
+          <h2 className='mt-5 mb-8 font-bold'>Fronted And Backend Development</h2>
 
           <div className='grid grid-cols-3 lg:grid-cols-5 gap-4 lg:gap-8 mb-8'>
             {

@@ -27,7 +27,7 @@ function Header() {
         <div className='flex flex-col md:flex-row justify-between text-center items-center px-36'>
           <div className='flex-row flex space-x-5 text-3xl mt-5  lg:flex lg:flex-col lg:items-center lg:justify-center lg:space-x-0 lg:text-base md:mt-auto w-40 space-y-3 md:flex justify-center items-baseline text-center'>
             <a href="https://www.facebook.com/Fk.nafi" target='_blank'><FaFacebookSquare /> </a>
-            <a href="https://www.linkedin.com/in/forhad-khan-b277a821a" target='_blank'><FaLinkedin /> </a>
+            <a href="https://www.linkedin.com/in/forhadkhandev" target='_blank'><FaLinkedin /> </a>
             <a href="https://github.com/xnafi" target='_blank'><FaGitSquare /> </a>
           </div>
 
