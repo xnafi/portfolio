@@ -17,7 +17,7 @@ function Header() {
           <h2 className='text-sm font-medium'>I'm Frontend Developer</h2>
         </div>
         <div className='flex mt-6 justify-center space-x-3'>
-          <a href={cv} download className='text-xs border p-2 rounded-lg hover:bg-slate-600'>Download CV</a>
+          <a href={cv} download className='text-xs border p-2 rounded-lg hover:bg-slate-600'>Download Resume</a>
           <a href="#contact" className='text-xs border p-2 rounded-lg bg-slate-600 hover:bg-transparent'>Lets Talk</a>
         </div>
 

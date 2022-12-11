@@ -44,9 +44,9 @@ function Footer() {
 
                 </div>
 
-                <div className='flex flex-row justify-center items-center text-4xl mt-10 space-x-4'>
+                <div className='flex flex-row justify-center items-center text-2xl mt-10 space-x-4'>
                     <a href="https://www.facebook.com/Fk.nafi" target='_blank'  className='hover:text-red-900 hover:scale-110'><FaFacebookSquare /> </a>
-                    <a href="https://www.linkedin.com/in/forhad-khan-b277a821a" className='hover:text-red-900 hover:scale-110' target='_blank'><FaLinkedin /> </a>
+                    <a href="https://www.linkedin.com/in/forhadkhandev" className='hover:text-red-900 hover:scale-110' target='_blank'><FaLinkedin /> </a>
                     <a href="https://github.com/xnafi" className='hover:text-red-900 hover:scale-110' target='_blank'><FaGitSquare /> </a>
                 </div>
                  <span className='mt-10'> &copy; All Rights Reserved</span>
