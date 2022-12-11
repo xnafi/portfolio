@@ -10,7 +10,7 @@ function Testimonial() {
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4 justify-center items-baseline space-y-4 lg:space-y-0 mt-16 lg:mt-28 px-0 lg:px-6'>
         
       <div className='flex flex-col justify-center items-center space-y-4 bg-slate-900 rounded-lg p-3'>
-          <img src="https://www.fillmurray.com/640/640" className='rounded-full w-1/2' alt="" />
+          <img src="https://picsum.photos/640" className='rounded-full w-1/2' alt="" />
           <div>
             <h2 className='font-bold text-xl space-y-3'>
                  John Doe
